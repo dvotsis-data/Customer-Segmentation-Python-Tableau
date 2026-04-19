@@ -25,14 +25,14 @@ To identify **5 strategic customer segments** using the **K-Means Clustering** a
 * 📉 **Low Spenders:** Low Income & Low Spending.
 
 ## 📷 Interactive Dashboard Preview
-![Customer Segments](../04_Screenshots/01_Final_Dashboard.png)
+![Customer Segments](./04_Screenshots/01_Final_Dashboard.png)
 
 ## 🔗 Interactive Dashboard
 Explore the segments and data distributions in detail on Tableau Public:
 👉 **[View Live Dashboard](https://public.tableau.com/views/Customer_Segmentation_Analysis_17739396103910/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ## 🧠 Machine Learning Logic: Elbow Method
-![Elbow Method](../04_Screenshots/02_Elbow_Method_Analysis.png)
+![Elbow Method](./04_Screenshots/02_Elbow_Method_Analysis.png)
 
 ## 🚀 Skills Demonstrated
 - **Machine Learning (Clustering)**

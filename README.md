@@ -177,6 +177,30 @@ Customer-Segmentation-Python-Tableau/
 └── README.md
 ```
 
+
+## How to Run the Analysis
+
+Install the required Python libraries:
+
+```bash
+pip install pandas matplotlib scikit-learn
+```
+
+Navigate to the Python directory:
+
+```bash
+cd 02_Python
+```
+
+Run the analysis:
+
+```bash
+python segmentation.py
+```
+
+The script performs data quality checks, evaluates K-Means clustering, generates visualizations, and exports the processed dataset to `01_Data/cleaned_customers.csv`.
+  
+
 ## Conclusion
 
 The analysis identified five customer segments with different income and spending patterns.
